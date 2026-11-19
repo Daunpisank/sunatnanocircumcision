@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#CCFBF1"/>
+      <stop offset="55%" stop-color="#EFF6FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg2)"/>
+  <circle cx="590" cy="420" r="150" fill="#99F6E4" fill-opacity="0.45"/>
+  <circle cx="240" cy="140" r="120" fill="#FDE68A" fill-opacity="0.45"/>
+  <!-- Kartu Ilustrasi Anak & Dokter Ramah -->
+  <rect x="120" y="120" width="560" height="360" rx="36" fill="#FFFFFF" stroke="#DCE8F5" stroke-width="4"/>
+  <!-- Dokter Ramah -->
+  <circle cx="310" cy="255" r="56" fill="#FDE68A"/>
+  <circle cx="292" cy="248" r="5" fill="#0F2942"/>
+  <circle cx="328" cy="248" r="5" fill="#0F2942"/>
+  <path d="M294 270C302 280 318 280 326 270" stroke="#0F2942" stroke-width="4" stroke-linecap="round"/>
+  <rect x="242" y="320" width="136" height="110" rx="34" fill="#0D9488"/>
+  <rect x="280" y="320" width="60" height="110" fill="#FFFFFF"/>
+  <!-- Anak Tersenyum -->
+  <circle cx="495" cy="275" r="48" fill="#FED7AA"/>
+  <circle cx="480" cy="270" r="4.5" fill="#0F2942"/>
+  <circle cx="510" cy="270" r="4.5" fill="#0F2942"/>
+  <path d="M482 290C490 298 500 298 508 290" stroke="#0F2942" stroke-width="4" stroke-linecap="round"/>
+  <rect x="440" y="332" width="110" height="98" rx="30" fill="#F59E0B"/>
+  <!-- Hati / Kepercayaan -->
+  <circle cx="405" cy="195" r="24" fill="#FEE2E2"/>
+  <path d="M405 207L395 197C391 193 391 187 395 184C398 181 402 182 405 185C408 182 412 181 415 184C419 187 419 193 415 197L405 207Z" fill="#EF4444"/>
+  <!-- Label Foto -->
+  <rect x="200" y="470" width="400" height="44" rx="22" fill="#0F766E"/>
+  <text x="400" y="498" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="700">Foto 2 · Dokter Ramah &amp; Bius Tanpa Jarum</text>
+</svg>
